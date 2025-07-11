@@ -388,6 +388,10 @@
   gap: 10px;
 }
 
+.footer__list-item p {
+  margin: 0;
+}
+
 .footer__column-link {
   color: white;
   text-decoration: none;
