@@ -382,10 +382,8 @@
 }
 
 .footer__list-item {
-  display: flex;
   margin-bottom: 16px;
   font-size: small;
-  gap: 10px;
 }
 
 .footer__list-item p {
